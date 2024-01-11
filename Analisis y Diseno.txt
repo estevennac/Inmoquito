@@ -1,0 +1,7 @@
+Analisis y Diseno
+--------------------
+
+Entregables:
+modelo diagrama de flujo de datos
+modelo casos de uso
+modelo entidad relacion
